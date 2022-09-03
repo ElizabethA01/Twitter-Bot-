@@ -53,5 +53,5 @@ I really enjoyed this project, because it was very practical and user friendly. 
 
 
 ## Acknowledgements
-- This project was inspired by the Udemy course 'Complete Software Developer: zero to mastery'
+- This project was inspired by [Complete Python Developer in 2022: Zero to Mastery] https://www.udemy.com/course/complete-python-developer-zero-to-mastery/
 
