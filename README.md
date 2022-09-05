@@ -19,7 +19,7 @@
 
 
 ## Technologies Used
-- Python - version 3.5
+- Python - version 3.9
 
 
 ## Features
