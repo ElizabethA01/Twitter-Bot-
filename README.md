@@ -31,6 +31,15 @@
 You need to input your Twitter authentication access token to allow access to your twitter account. 
 
 
+## Setup
+To set up the local environment, clone the repository. 
+
+Clone the repository using the command line using HTTPS
+- Paste this command in the command line: $ git clone https://github.com/ElizabethA01/Twitter-Bot-.git or clone in VS code. 
+- You need to input your Twitter authentication access token to allow access to your twitter account. 
+- Run the code in tweettweet.py
+
+
 ## Usage
 Input the search_string of the keywords you would like the bot to look for the number of tweets it should favourite. 
 To follow someone back, you need to input the names_string. 
